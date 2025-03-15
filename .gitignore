@@ -1,0 +1,6 @@
+# Ignore all .txt files
+*.txt
+
+# Ignore specific files
+/temp/
+/logs/
